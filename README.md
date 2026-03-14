@@ -253,7 +253,9 @@ Meaning       →  Correctly identifies 76% of churners before they leave
 ## **👤 Author**
 
 Vishvi
-- 🔗 LinkedIn: https://https:/518046360/www.linkedin.com/in/ vishvi-vishvi-
+- 🔗 LinkedIn: www.linkedin.com/in/
+vishvi-vishvi-518046360
+
 - 💻 GitHub: https://github.com/vishvi31
 
 ---
